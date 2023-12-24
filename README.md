@@ -1,7 +1,8 @@
-# Codewars Python Solutions Of Mine.
+# Codewars Solutions
 
 ## 7kyu Katas
 
+- [Find the capitals](7kyuKatas/Find_the_capitals.md)
 - [Find the middle element](7kyuKatas/Find_the_middle_element.md)
 - [Descending Order](7kyuKatas/Descending_Order.md)
 
