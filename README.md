@@ -1,5 +1,9 @@
 # Codewars Solutions
 
+## 5kyu Katas
+
+- [Can you get the loop ?](./5kyuKatas/Can_you_get_the_loop.md)
+
 ## 7kyu Katas
 
 - [Find the capitals](7kyuKatas/Find_the_capitals.md)
