@@ -4,6 +4,10 @@
 
 - [Can you get the loop ?](./5kyuKatas/Can_you_get_the_loop.md)
 
+## 6kyu Katas
+
+- [Count characters in your string](./6kyuKatas/Count_characters_in_your_string.md)
+
 ## 7kyu Katas
 
 - [Find the capitals](7kyuKatas/Find_the_capitals.md)
