@@ -7,6 +7,7 @@
 ## 6kyu Katas
 
 - [Count characters in your string](./6kyuKatas/Count_characters_in_your_string.md)
+- [Unique In Order](./6kyuKatas/Unique_In_Order.md)
 
 ## 7kyu Katas
 
